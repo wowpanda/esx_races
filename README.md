@@ -6,9 +6,7 @@ This script was based on: https://forum.fivem.net/t/release-streetraces-multipla
 
 # Features
 
-Lightweight
-Simple
-Automatic prize pool (removing and adding money)
+Lightweight and Simple with automatic prize pool (removing and adding money)
 
 # Requirements
 
@@ -16,9 +14,9 @@ es_extended: https://github.com/ESX-Org/es_extended
 
 # Installation
 
-Step 1.: Download the resource from: https://github.com/Trickxqster/esx_races
-Step 2.: Drag your resource to your server /resources folder
-Step 3.: Add “start esx_binoculars” in your server.cfg
+1. : Download the resource from: https://github.com/Trickxqster/esx_races
+2. : Drag your resource to your server /resources folder
+3. : Add “start esx_binoculars” in your server.cfg
 
 # Usage
 
