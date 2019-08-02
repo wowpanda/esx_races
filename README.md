@@ -20,12 +20,13 @@ es_extended: https://github.com/ESX-Org/es_extended
 
 # Usage
 
-Place a waypoint on your minimap
-Type /race start [price] in the chat
-Press [E] to join and wait for the timer (configureable)
-Race to the finish line
-/race leave - to leave the race
-/race clear - to clear the race
+1. Place a waypoint on your minimap
+2. Type /race start [price] in the chat
+3. Press [E] to join and wait for the timer (configureable)
+4. Race to the finish line
+
+5. /race leave - to leave the race
+6. /race clear - to clear the race
 
 # Help
 
